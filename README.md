@@ -100,9 +100,9 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 ---
 
 ## 📊 GitHub Stats
-![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&theme=radical) </br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&theme=radical)  </br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical)  
+![Raman's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=auralumenor&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=auralumenor&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical)
 
 ---
 
