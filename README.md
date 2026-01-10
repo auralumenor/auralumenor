@@ -1,15 +1,15 @@
 # Hi 👋 I'm Raman Raj
-🎓 First-Year AI/ML Student | Learning & Building Step by Step  
-🐍 Python | C | Java | CS50x  
-📍 India  
+- 🎓 First-Year AI/ML Student | Learning & Building Step by Step  
+- 🐍 Python | C | Java | CS50x  
+- 📍 India  
 
 ---
 
 ## 🚀 About Me
-I’m passionate about learning computer science fundamentals and applying them through small projects.  
-As a first-year student, I’m focused on building strong foundations in programming, web development, and databases, while exploring AI/ML step by step.  
-I’m fascinated by how AI can turn data into insights and solve real-world problems.  
-Right now, I’m strengthening my skills in Python, C, and Java while building small projects.
+- I’m passionate about learning computer science fundamentals and applying them through small projects.  
+- As a first-year student, I’m focused on building strong foundations in programming, web development, and databases, while exploring AI/ML step by step.  
+- I’m fascinated by how AI can turn data into insights and solve real-world problems.  
+- Right now, I’m strengthening my skills in Python, C, and Java while building small projects.
 
 ---
 
@@ -86,7 +86,7 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 ## 🏆 Achievements
 - CS50x (Harvard) – In progress  
 - Completed Linux + C projects in first year  
-- Planning and building ML projects during undergrad 
+- Building ML projects during undergrad 
 - Active on GitHub with open-source contributions  
 
 ---
