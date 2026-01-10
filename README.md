@@ -105,6 +105,7 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=auralumenor&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auralumenor&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical)
 
 ---
 
