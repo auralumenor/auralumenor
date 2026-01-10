@@ -99,6 +99,8 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 ---
 
 ## 📊 GitHub Stats
+Tracking my coding journey day by day 🚀
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=radical)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=radical)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical)
@@ -107,7 +109,7 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 
 ---
 
-## 🔥 GitHub Streaks
+## 🔥 GitHub Streaks (Optional)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical)
 
 ---
