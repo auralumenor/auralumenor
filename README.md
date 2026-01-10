@@ -1,6 +1,5 @@
 # Hi 👋 I'm Raman Raj
-
-🎓 B.Tech CSE (AI & ML) Student  
+🎓 First-Year AI/ML Student | Learning & Building Step by Step  
 🐍 Python | C | Java | CS50x  
 📍 India  
 
@@ -87,15 +86,15 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 ## 🏆 Achievements
 - CS50x (Harvard) – In progress  
 - Completed Linux + C projects in first year  
-- Planning multiple ML projects during undergrad  
+- Planning and building ML projects during undergrad 
 - Active on GitHub with open-source contributions  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/ramanraj-ai](https://linkedin.com/in/ramanraj-ai)  
-- GitHub: [github.com/auralumenor](https://github.com/auralumenor)  
-- Email: rr737902@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ramanraj-ai)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/auralumenor)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rr737902@gmail.com)
 
 ---
 
@@ -105,6 +104,10 @@ Right now, I’m strengthening my skills in Python, C, and Java while building s
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=auralumenor&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auralumenor&theme=radical)
+
+---
+
+## 🔥 GitHub Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical)
 
 ---
