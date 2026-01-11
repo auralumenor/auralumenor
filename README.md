@@ -101,12 +101,11 @@
 ## 📊 GitHub Stats
 Tracking my coding journey day by day 🚀
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=radical)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=radical)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=auralumenor&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auralumenor&theme=radical)
-
+![Profile Details](https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/profile-details?username=auralumenor&theme=radical)
+![Repos per Language](https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical)
+![Stats](https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/stats?username=auralumenor&theme=radical)
+![Productive Time](https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/productive-time?username=auralumenor&theme=radical)
 ---
 
 ## 🔥 GitHub Streaks (Optional)
