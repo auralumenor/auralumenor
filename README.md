@@ -101,16 +101,16 @@
 ## 📊 GitHub Stats
 Tracking my coding journey day by day 🚀
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=radical)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=radical)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=auralumenor&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auralumenor&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=auralumenor&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auralumenor&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streaks (Optional)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=tokyonight)
 
 ---
 
