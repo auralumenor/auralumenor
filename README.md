@@ -114,5 +114,3 @@ Tracking my coding journey day by day 🚀
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=auralumenor&color=blue&style=flat)
