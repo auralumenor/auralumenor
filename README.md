@@ -31,7 +31,7 @@
 ### 📚 Currently Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CS50x](https://img.shields.io/badge/CS50x-0066CC?style=for-the-badge&logo=harvard&logoColor=white)
 
 ### 🔮 Future Skills (Planned)
