@@ -50,9 +50,9 @@
 ---
 
 ### 🔮 Planned (within 8 months)
-- 🏠 **House Price Prediction (ML)** *(planned)*  
+- 🏠 **House Price Prediction (ML)** *(in progress)*  
 - 📊 **Student Performance Analysis** *(planned)*  
-- 🌐 **Personal Portfolio Website** *(planned)*  
+- 🌐 **Personal Portfolio Website** *(in progress)*  
 - 🧠 **CS50 Final Project** *(in progress)*  
 
 ---
