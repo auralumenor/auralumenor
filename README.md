@@ -48,13 +48,13 @@
 ### ✅ Completed
 - 🐧 **Linux Project (Vim)** – Explored Linux basics and worked with Vim for file/text management.  
 - 🧮 **Calculator (C Language)** – Built a simple calculator for arithmetic operations.  
+- 🌐 **Personal Portfolio Website** - Built a portfolio website
 
 ---
 
 ### 🔮 Planned (within 8 months)
 - 🏠 **House Price Prediction (ML)** *(in progress)*  
-- 📊 **Student Performance Analysis** *(planned)*  
-- 🌐 **Personal Portfolio Website** *(in progress)*  
+- 📊 **Student Performance Analysis** *(planned)*   
 - 🧠 **CS50 Final Project** *(in progress)*  
 
 ---
@@ -97,6 +97,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ramanraj-ai)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/auralumenor)
 [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rr737902@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://glittering-fudge-357a0c.netlify.app/)
+
 
 ---
 
