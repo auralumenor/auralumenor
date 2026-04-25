@@ -90,6 +90,7 @@ I am a passionate technologist currently pursuing my B.Tech in AI/ML at **Manav 
 | **[Personal Portfolio](https://ramanraj.netlify.app/)** | Professional technical landing page featuring minimalist design and responsive architecture. | HTML, CSS, JS |
 | **Advanced Systems Calculator** | Scientific & Trigonometric calculator built to demonstrate complex logic handling in C. | C Language |
 | **Linux Ecosystem Audit** | Systems management and text processing using Vim and advanced shell scripting. | Bash, Vim, Linux |
+| **House Price Prediction** | House Price Predictor built to predict price of the house by using Ames_Housing_Dataset. | Python |
 
 <br>
 
