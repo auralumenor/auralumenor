@@ -10,7 +10,7 @@
 
 ![Summary](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=EXECUTIVE%20SUMMARY&fontSize=25&fontAlignY=50&fontColor=58a6ff)
 
-**First-Year AI/ML Student at Manav Rachna University | Architecting Scalable Technical Solutions**
+**Second-Year AI/ML Student at Manav Rachna University | Architecting Scalable Technical Solutions**
 
 I am a passionate technologist currently pursuing my B.Tech in AI/ML at **Manav Rachna University**. My journey is focused on building robust foundations in Computer Science, exploring the intersection of **AI/ML**, **Modern Web Development**, and **Systems Engineering**. I am dedicated to mastering the core principles of algorithms and data structures while engineering enterprise-ready applications and continuous system solutions.
 
