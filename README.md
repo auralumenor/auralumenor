@@ -117,29 +117,40 @@ I am a passionate technologist focused on building strong computer science found
 
 ![Metrics](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%93%8A%20TECHNICAL%20METRICS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top" style="padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&include_all_commits=true" height="170" />
-    </td>
-    <td align="center" valign="top" style="padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&langs_count=8" height="170" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top" style="padding: 5px;">
-      <img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
-    </td>
-  </tr>
-</table>
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/auralumenor?label=Followers&style=for-the-badge&logo=github&logoColor=2FACFF&labelColor=091E3A&color=2FACFF)](https://github.com/auralumenor?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/auralumenor?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=2FACFF&labelColor=091E3A&color=2FACFF&affiliations=OWNER)](https://github.com/auralumenor?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fauralumenor&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=2FACFF&labelColor=091E3A&color=2FACFF)](https://github.com/auralumenor?tab=repositories)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&include_all_commits=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&langs_count=8" height="170" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
+
+<br>
+
+#### 📈 Contribution History & Language Breakdown
+
+<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="820" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" />
+<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/3-stats.svg" height="170" />
+<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="170" />
 
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=auralumenor&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="820" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=auralumenor&bg_color=0D1117&color=2FACFF&line=2FACFF&point=c9d1d9&area=true&hide_border=true" width="820" />
 
 <br>
 
