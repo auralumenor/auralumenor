@@ -119,40 +119,44 @@ I am a passionate technologist focused on building strong computer science found
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/auralumenor?label=Followers&style=for-the-badge&logo=github&logoColor=2FACFF&labelColor=091E3A&color=2FACFF)](https://github.com/auralumenor?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/auralumenor?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=2FACFF&labelColor=091E3A&color=2FACFF&affiliations=OWNER)](https://github.com/auralumenor?tab=repositories)
-[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fauralumenor&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=2FACFF&labelColor=091E3A&color=2FACFF)](https://github.com/auralumenor?tab=repositories)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/github-metrics.svg" width="820" alt="GitHub Metrics" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=auralumenor&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="820" />
-
-<br>
-
-#### 📈 Contribution History & Breakdown
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="820" alt="Contribution History Graph" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Repos per Language" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Most Commit Language" />
-</picture>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <img src="https://metrics.lecoq.io/auralumenor" alt="GitHub Metrics" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github_dark" alt="Contribution History Graph" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center" valign="top" style="padding: 5px;">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=github_dark" />
+              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=github" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=github_dark" height="165" alt="Repos per Language" />
+            </picture>
+          </td>
+          <td align="center" valign="top" style="padding: 5px;">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=github_dark" />
+              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=github" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=github_dark" height="165" alt="Most Commit Language" />
+            </picture>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br>
 
