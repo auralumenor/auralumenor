@@ -125,32 +125,39 @@ I am a passionate technologist focused on building strong computer science found
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&include_all_commits=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&langs_count=8" height="165" alt="Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
-
-<br>
-
-#### 📈 Contribution History & Language Breakdown
-
-<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="820" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" />
-<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/3-stats.svg" height="170" />
-<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="170" />
+<img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="165" alt="GitHub Streak" />
 
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=auralumenor&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="820" />
+
+<br>
+
+#### 📈 Contribution History & Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="820" alt="Contribution History Graph" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Repos per Language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Most Commit Language" />
+</picture>
 
 <br>
 
