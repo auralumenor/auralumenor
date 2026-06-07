@@ -127,6 +127,11 @@ I am a passionate technologist focused on building strong computer science found
   </tr>
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
+      <img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github_dark" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github" />
