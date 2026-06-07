@@ -125,12 +125,7 @@ I am a passionate technologist focused on building strong computer science found
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&langs_count=8" height="165" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="165" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/auralumenor/auralumenor/main/github-metrics.svg" width="820" alt="GitHub Metrics" />
 
 <br>
 
