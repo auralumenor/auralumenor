@@ -2,135 +2,164 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:091E3A,100:2FACFF&height=250&section=header&text=Raman%20Raj&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=58a6ff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Linux+Enthusiast;Systems+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2FACFF&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Linux+Enthusiast;Systems+Architect)](https://git.io/typing-svg)
 
-![Views](https://komarev.com/ghpvc/?username=auralumenor&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=auralumenor1&color=2FACFF&style=flat-square&label=PROFILE+VIEWS)
+
+<div align="center">
+  <a href="https://ramanraj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-091E3A?style=for-the-badge&logo=globus&logoColor=2FACFF" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ramanraj-ai"><img src="https://img.shields.io/badge/LinkedIn-091E3A?style=for-the-badge&logo=linkedin&logoColor=2FACFF" alt="LinkedIn" /></a>
+  <a href="mailto:rr737902@gmail.com"><img src="https://img.shields.io/badge/Email-091E3A?style=for-the-badge&logo=gmail&logoColor=2FACFF" alt="Email" /></a>
+</div>
 
 ---
 
-![Summary](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=EXECUTIVE%20SUMMARY&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+![Summary](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%93%8B%20EXECUTIVE%20SUMMARY&fontSize=25&fontAlignY=50&fontColor=58a6ff)
 
-**Second-Year AI/ML Student at Manav Rachna University | Architecting Scalable Technical Solutions**
+</div>
 
-I am a passionate technologist currently pursuing my B.Tech in AI/ML at **Manav Rachna University**. My journey is focused on building robust foundations in Computer Science, exploring the intersection of **AI/ML**, **Modern Web Development**, and **Systems Engineering**. I am dedicated to mastering the core principles of algorithms and data structures while engineering enterprise-ready applications and continuous system solutions.
+**Second-Year B.Tech Student in AI/ML at Manav Rachna University**
 
-[`◆ Portfolio`](https://ramanraj.netlify.app/) • [`◆ Contact`](mailto:rr737902@gmail.com) • [`◆ LinkedIn`](https://linkedin.com/in/ramanraj-ai)
+I am a passionate technologist focused on building strong computer science foundations, studying machine learning models, and exploring Linux systems and web development.
+
+### ⚡ Who I Am
+
+- 🎓 **Education**: Pursuing B.Tech in Artificial Intelligence & Machine Learning at Manav Rachna University (2nd Year).
+- 🧠 **Interests**: Machine Learning, Systems Programming, and Web Development.
+- 🌱 **Learning**: Exploring deep neural networks, Linux environments, and clean code architecture.
+- 💬 **Ask Me About**: Python, Linux scripting, and React.
 
 <br>
 
-![Proficiency](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=CORE%20COMPETENCIES&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+<div align="center">
 
-<table align="center">
+![Proficiency](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20CORE%20COMPETENCIES&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="20%">
-      <strong>◈ Languages</strong><br><br>
+    <td align="center" width="33%" valign="top">
+      <strong>💻 Languages & Systems</strong><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-    <td align="center" width="20%">
-      <strong>◈ AI / ML</strong><br><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /><br>
+    <td align="center" width="34%" valign="top">
+      <strong>🤖 AI / ML Engineering</strong><br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
-    <td align="center" width="20%">
-      <strong>◈ Frontend</strong><br><br>
+    <td align="center" width="33%" valign="top">
+      <strong>🎨 Frontend Development</strong><br><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NS0yLjQzOEwxLjUgMHptMTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4wMDJsNS4zNTUtMS4xMi42MzYtNy4yMTgtMTEuMjctLjAwMy4yMS0yLjY2Mi0uMDAzLjAwM2gtLjE0bDEyLjkxLjAwNy0uMzkxIDIuNDA0eiIvPjwvc3ZnPg==&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
-    <td align="center" width="20%">
-      <strong>◈ Backend</strong><br><br>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><br>
+      <strong>⚙️ Backend & Databases</strong><br><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
-    <td align="center" width="20%">
-      <strong>◈ Tools</strong><br><br>
+    <td align="center" valign="top"><br>
+      <strong>🐧 Systems & Infrastructure</strong><br><br>
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+    </td>
+    <td align="center" valign="top"><br>
+      <strong>🔧 Tools & Environments</strong><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <strong>◈ Design & Media</strong><br><br>
+    <td align="center" colspan="3" valign="top"><br>
+      <strong>🖌️ Design, Media & Engineering Tools</strong><br><br>
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
       <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" />
       <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat-square&logo=davinci-resolve&logoColor=white" />
       <img src="https://img.shields.io/badge/AutoCAD-E52424?style=flat-square&logo=autodesk&logoColor=white" />
     </td>
-    <td align="center" colspan="3">
-      <strong>◈ Systems & Infrastructure</strong><br><br>
-      <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white" />
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-      <img src="https://img.shields.io/badge/curl-073551?style=flat-square&logo=curl&logoColor=white" />
+  </tr>
+</table>
+
+<br>
+
+![Projects](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%9A%80%20KEY%20PROJECTS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+
+</div>
+
+| ▣ Project | ❯ Description | ❯ Tech Stack | ❯ Status |
+| :--- | :--- | :--- | :--- |
+| **[EduNexus 🔗](https://github.com/auralumenor/EduNexus)** | Developed an enterprise-grade library management system. Engineered database schemas in PostgreSQL, implemented secure backend APIs, and built a real-time admin tracking dashboard. | `React` `Node.js` `Express` `PostgreSQL` | `🟢 Active` |
+| **[Personal Portfolio 🔗](https://ramanraj.netlify.app/)** | Created a high-performance, responsive portfolio showcasing personal projects. Optimized asset loading and integrated CI/CD deployment via Netlify. | `HTML5` `CSS3` `JavaScript` | `🟢 Live` |
+| **Advanced Systems Calculator** | Programmed a modular command-line scientific calculator in C, implementing custom operator precedence parsing and secure memory allocation. | `C Language` | `🔵 Completed` |
+| **Linux Ecosystem Audit** | Authored Bash administrative scripts using AWK/sed text processing to automate performance monitoring and system audit reports. | `Bash` `Vim` `Linux` | `🔵 Completed` |
+| **House Price Prediction** | Built a supervised machine learning model. Cleaned Ames housing data, performed feature engineering, and trained/tuned regression algorithms in Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` | `🔵 Completed` |
+
+<br>
+
+<div align="center">
+
+![Metrics](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%93%8A%20TECHNICAL%20METRICS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" style="padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&include_all_commits=true" height="170" />
+    </td>
+    <td align="center" valign="top" style="padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&hide_border=true&bg_color=0D1117&title_color=2FACFF&text_color=c9d1d9&icon_color=2FACFF&langs_count=8" height="170" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top" style="padding: 5px;">
+      <img src="https://streak-stats.demolab.com/?user=auralumenor&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
     </td>
   </tr>
 </table>
 
 <br>
 
-![Projects](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=KEY%20PROJECTS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
-
-| ▣ Project | ❯ Description | ❯ Stack |
-| :--- | :--- | :--- |
-| **[EduNexus](https://github.com/auralumenor/EduNexus)** | Enterprise-grade Library Management System with real-time tracking and dashboard analytics. | React, Node.js, Express, SQL |
-| **[Personal Portfolio](https://ramanraj.netlify.app/)** | Professional technical landing page featuring minimalist design and responsive architecture. | HTML, CSS, JS |
-| **Advanced Systems Calculator** | Scientific & Trigonometric calculator built to demonstrate complex logic handling in C. | C Language |
-| **Linux Ecosystem Audit** | Systems management and text processing using Vim and advanced shell scripting. | Bash, Vim, Linux |
-| **House Price Prediction** | House Price Predictor built to predict price of the house by using Ames_Housing_Dataset. | Python |
+<img src="https://github-profile-trophy.vercel.app/?username=auralumenor&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="820" />
 
 <br>
 
-![Metrics](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=TECHNICAL%20METRICS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
-
-<div align="center">
-  <img src="https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/profile-details?username=auralumenor&theme=radical" width="820" />
-</div>
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=auralumenor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralumenor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="170" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/productive-time?username=auralumenor&theme=radical" height="170" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=auralumenor&theme=radical&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" height="170" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards-six-smoky.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=radical" width="820" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=auralumenor&bg_color=0D1117&color=2FACFF&line=2FACFF&point=c9d1d9&area=true&hide_border=true" width="820" />
 
 <br>
 
-![Roadmap](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=STRATEGIC%20ROADMAP&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+### 🎮 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake.svg" width="820" />
+</picture>
+
+<br><br>
+
+![Roadmap](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%97%BA%EF%B8%8F%20STRATEGIC%20ROADMAP&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+
+</div>
 
 ```mermaid
 graph TD
+    %% Node definitions
     A[Year 1: Foundations] -->|Engineering| B(C / Python / Systems)
     B --> C[Year 2: Intermediate]
     C -->|Architecture| D(Data Structures / SQL / React)
@@ -138,16 +167,23 @@ graph TD
     E -->|Intelligence| F(AI / ML / NLP / Deep Learning)
     F --> G[Year 4: Professional]
     G -->|Deployment| H(Industrial Capstone / Enterprise Prep)
+
+    %% Styling classes
+    classDef yearNode fill:#091E3A,stroke:#2FACFF,stroke-width:2px,color:#fff,font-weight:bold;
+    classDef techNode fill:#152238,stroke:#2FACFF,stroke-width:1px,color:#2FACFF;
+    
+    %% Apply styling
+    class A,C,E,G yearNode;
+    class B,D,F,H techNode;
+    
+    %% Link styling
+    linkStyle default stroke:#2FACFF,stroke-width:2px;
 ```
 
 <br>
 
-![Philosophy](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=CONTINUOUS%20SYSTEMS%20PHILOSOPHY&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+<div align="center">
 
-> *“Engineering is not just about building; it is about sustaining and evolving.”*
-
-My methodology revolves around the principle of **Continuous Systems Development**—an iterative approach to software engineering that prioritizes **scalability**, **maintainability**, and **algorithmic efficiency**. By bridging the gap between theoretical AI/ML models and production-ready systems, I aim to create technology that adapts and thrives in dynamic environments.
-
-<br>
+_Designed with ❤️ by [auralumenor](https://github.com/auralumenor)_
 
 </div>
