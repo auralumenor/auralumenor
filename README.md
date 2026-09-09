@@ -133,9 +133,9 @@ I am a passionate technologist focused on building strong computer science found
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auralumenor&theme=github_dark" alt="Contribution History Graph" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darktheunk&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darktheunk&theme=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darktheunk&theme=github_dark" alt="Contribution History Graph" />
       </picture>
     </td>
   </tr>
@@ -145,16 +145,16 @@ I am a passionate technologist focused on building strong computer science found
         <tr>
           <td align="center" valign="top" style="padding: 5px;">
             <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=github_dark" />
-              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=github" />
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=auralumenor&theme=github_dark" height="165" alt="Repos per Language" />
+              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darktheunk&theme=github_dark" />
+              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darktheunk&theme=github" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darktheunk&theme=github_dark" height="165" alt="Repos per Language" />
             </picture>
           </td>
           <td align="center" valign="top" style="padding: 5px;">
             <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=github_dark" />
-              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=github" />
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auralumenor&theme=github_dark" height="165" alt="Most Commit Language" />
+              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darktheunk&theme=github_dark" />
+              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darktheunk&theme=github" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darktheunk&theme=github_dark" height="165" alt="Most Commit Language" />
             </picture>
           </td>
         </tr>
@@ -168,8 +168,8 @@ I am a passionate technologist focused on building strong computer science found
 ### 🎮 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darktheunk/darktheunk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darktheunk/darktheunk/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake.svg" width="820" />
 </picture>
 
