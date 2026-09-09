@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:091E3A,100:2FACFF&height=250&section=header&text=Raman%20Raj&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=58a6ff)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:091E3A,100:2FACFF&height=150&section=header&text=Raman%20Raj&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=58a6ff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2FACFF&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Linux+Enthusiast;Systems+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2FACFF&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Linux+Enthusiast;Systems+Architect;Curious+Explorer)](https://git.io/typing-svg)
 
 ![Views](https://komarev.com/ghpvc/?username=darktheunk1&color=2FACFF&style=flat-square&label=PROFILE+VIEWS)
 
